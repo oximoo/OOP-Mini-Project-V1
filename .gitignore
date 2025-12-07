@@ -1,0 +1,16 @@
+# Java / IDE / Build
+*.class
+*.log
+bin/
+out/
+build/
+target/
+.idea/
+*.iml
+.vscode/
+.gradle/
+.project
+.classpath
+.settings/
+.DS_Store
+Thumbs.db
